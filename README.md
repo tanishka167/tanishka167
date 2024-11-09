@@ -16,6 +16,9 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/tanishka-sharma-939b93220**
 
+<h3 align="left">Badges:</h3>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="60px" height="60px" /> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanishka1660061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanishka1660061" height="30" width="40" /></a>
