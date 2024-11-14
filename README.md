@@ -33,4 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishka167&show_icons=true&locale=en&layout=compact" alt="tanishka167" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishka167&show_icons=true&locale=en" alt="tanishka167" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishka167&" alt="tanishka167" /></p>
