@@ -1,5 +1,4 @@
-[![MasterHead](https://github.com/tanishka167/tanishka167/blob/main/banner-github.png)](https://github.com/tanishka167/tanishka167/blob/main/banner-github.png) 
-
+![Banner](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 <h1 align="center">Hi 👋, I'm Tanishka Sharma</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/asian-woman-working-laptop-woman-it-developer-programming-code-freelance-remote-working_254685-2375.jpg">
