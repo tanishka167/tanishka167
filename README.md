@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanishka1660061" target="blank"><img src="https://img.shields.io/twitter/follow/tanishka1660061?logo=twitter&style=for-the-badge" alt="tanishka1660061" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Core Java**
 
