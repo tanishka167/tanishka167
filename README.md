@@ -1,4 +1,4 @@
-![Banner](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
+![Banner](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 <h1 align="center">Hi 👋, I'm Tanishka Sharma</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/asian-woman-working-laptop-woman-it-developer-programming-code-freelance-remote-working_254685-2375.jpg">
